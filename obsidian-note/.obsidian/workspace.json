@@ -4,22 +4,96 @@
     "type": "split",
     "children": [
       {
-        "id": "618aea2a4215f394",
+        "id": "07d8e355e627442e",
         "type": "tabs",
         "children": [
           {
-            "id": "43e29c5c0da44363",
+            "id": "bfd796a04f6be7ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/TypeScript.md",
+                "file": "TypeScript/内置类/Readonly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "921c599595c1fb1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/内置类.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7434f53337b79c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/泛型.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51c8ed9c63a6aea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/内置类/Exclude.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "94c768f54d583544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/内置类/ReturnType.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3133cb2bed3630f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/内置类/Parameters.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed49a82e41aeb0e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/内置类.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -48,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "section:(二次)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/TypeScript.md",
+                "file": "TypeScript/内置类.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/TypeScript.md",
+                "file": "TypeScript/内置类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,26 +199,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/TypeScript.md"
+                "file": "TypeScript/内置类.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "43e29c5c0da44363",
+  "active": "ed49a82e41aeb0e3",
   "lastOpenFiles": [
-    "TypeScript/声明文件.md",
-    "TypeScript/泛型.md",
-    "TypeScript/内置类/内置类.md",
-    "微信/链接分享.md",
-    "微信/微信开发.md",
-    "TypeScript/TypeScript.md",
-    "未命名.md"
+    "TypeScript/内置类/Readonly.md",
+    "TypeScript/内置类/Parameters.md",
+    "TypeScript/内置类/ReturnType.md",
+    "TypeScript/内置类/Omit.md",
+    "TypeScript/内置类/Exclude.md",
+    "TypeScript/内置类/Partial.md",
+    "TypeScript/内置类/PromiseSettledResult.md",
+    "TypeScript/内置类/Required.md",
+    "TypeScript/内置类/Pick.md",
+    "TypeScript/泛型.md"
   ]
 }
