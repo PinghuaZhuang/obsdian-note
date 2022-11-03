@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微信/链接分享.md",
+                "file": "TypeScript/TypeScript.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "微信/链接分享.md",
+                "file": "TypeScript/TypeScript.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微信/链接分享.md",
+                "file": "TypeScript/TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "微信/链接分享.md"
+                "file": "TypeScript/TypeScript.md"
               }
             }
           }
@@ -139,12 +139,12 @@
   },
   "active": "43e29c5c0da44363",
   "lastOpenFiles": [
-    "TypeScript/TypeScript.md",
     "TypeScript/声明文件.md",
     "TypeScript/泛型.md",
-    "微信/微信开发.md",
-    "微信/链接分享.md",
     "TypeScript/内置类/内置类.md",
+    "微信/链接分享.md",
+    "微信/微信开发.md",
+    "TypeScript/TypeScript.md",
     "未命名.md"
   ]
 }
