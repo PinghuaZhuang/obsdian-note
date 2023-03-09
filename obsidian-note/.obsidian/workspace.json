@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f686af143e2b6f8a",
+        "id": "aa47687a2d5db0c2",
         "type": "tabs",
         "children": [
           {
-            "id": "93edceb6945ab7e8",
+            "id": "357a08ebda161886",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Browser/Chrome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "103c488f84f2d403",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Browser/web work 多线程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aa12a4f527d83c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/css/属性选择器.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTML/css/属性选择器.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTML/css/属性选择器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HTML/css/属性选择器.md"
+              }
             }
           },
           {
@@ -135,17 +168,55 @@
     "direction": "horizontal",
     "width": 214.5
   },
-  "active": "93edceb6945ab7e8",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5aa12a4f527d83c8",
   "lastOpenFiles": [
-    "Q/A.md",
+    "assets/images/Pasted image 20230301092610.png",
+    "assets/images/Pasted image 20230309152940.png",
+    "HTML/css/属性选择器.md",
+    "Browser/web work 多线程.md",
+    "Browser/Chrome.md",
+    "assets/未命名.canvas",
+    "Browser/Cookies.md",
+    "docker/常用命令.md",
+    "docker/Docker中使用安卓模拟器-TODO....md",
     "HTML/attrs/contenteditable.md",
-    "Q/Q.md",
     "HTML/attrs/transform.md",
-    "TypeScript/内置类/Exclude.md",
-    "TypeScript/泛型.md",
-    "TypeScript/内置类/Omit.md",
-    "Node/mjs.md",
+    "HTML/css/伪元素.md",
+    "未命名.md",
     "JavaScript/appendChild.md",
-    "Browser/Cookies.md"
+    "Node/mjs.md",
+    "TypeScript/声明文件.md",
+    "TypeScript/TypeScript.md",
+    "TypeScript/语法.md",
+    "TypeScript/泛型.md",
+    "TypeScript/内置类/Pick.md",
+    "TypeScript/内置类/Readonly.md",
+    "TypeScript/内置类/Omit.md",
+    "微信/链接分享.md",
+    "微信/微信开发.md",
+    "微信/公众号扫码自动登录网站.md",
+    "TypeScript/内置类/ReturnType.md",
+    "TypeScript/内置类/Required.md",
+    "TypeScript/内置类/PromiseSettledResult.md",
+    "微信",
+    "docker",
+    "assets/images",
+    "assets",
+    "TypeScript/内置类",
+    "Q",
+    "Node",
+    "JavaScript",
+    "HTML/attrs",
+    "Browser"
   ]
 }
