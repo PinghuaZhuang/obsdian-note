@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d9d7bf9dbd324d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "packages/package.json.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9264b4c442b38449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "packages/pnpm.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/attrs/contenteditable.md",
+                "file": "packages/pnpm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/attrs/contenteditable.md",
+                "file": "packages/pnpm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/attrs/contenteditable.md"
+                "file": "packages/pnpm.md"
               }
             }
           },
@@ -178,8 +202,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5aa12a4f527d83c8",
+  "active": "9264b4c442b38449",
   "lastOpenFiles": [
+    "packages/package.json.md",
+    "packages/pnpm.md",
+    "packages",
+    "HTML/attrs/contenteditable.md",
     "HTML/attrs/transform.md",
     "HTML/css/属性选择器.md",
     "HTML/css/伪元素.md",
@@ -191,7 +219,6 @@
     "Browser/Cookies.md",
     "docker/常用命令.md",
     "docker/Docker中使用安卓模拟器-TODO....md",
-    "HTML/attrs/contenteditable.md",
     "未命名.md",
     "JavaScript/appendChild.md",
     "Node/mjs.md",
@@ -207,7 +234,6 @@
     "微信/公众号扫码自动登录网站.md",
     "TypeScript/内置类/ReturnType.md",
     "TypeScript/内置类/Required.md",
-    "TypeScript/内置类/PromiseSettledResult.md",
     "微信",
     "docker",
     "assets/images",
@@ -216,7 +242,6 @@
     "Q",
     "Node",
     "JavaScript",
-    "HTML/attrs",
-    "Browser"
+    "HTML/attrs"
   ]
 }
