@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa47687a2d5db0c2",
+        "id": "537e548919130bbf",
         "type": "tabs",
         "children": [
           {
-            "id": "357a08ebda161886",
+            "id": "4a150aef44ecd421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Browser/Chrome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "103c488f84f2d403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Browser/web work 多线程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aa12a4f527d83c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/attrs/contenteditable.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d9d7bf9dbd324d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "packages/package.json.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9264b4c442b38449",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "packages/pnpm.md",
+                "file": "JavaScript/JS 动画.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "packages/pnpm.md",
+                "file": "JavaScript/JS 动画.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "packages/pnpm.md",
+                "file": "JavaScript/JS 动画.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "packages/pnpm.md"
+                "file": "JavaScript/JS 动画.md"
               }
             }
           },
@@ -202,16 +153,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9264b4c442b38449",
+  "active": "4a150aef44ecd421",
   "lastOpenFiles": [
-    "packages/package.json.md",
+    "JavaScript/自定义事件.md",
+    "JavaScript/appendChild.md",
+    "JavaScript/JS 动画.md",
+    "微信/微信开发.md",
+    "微信/链接分享.md",
+    "微信/公众号扫码自动登录网站.md",
+    "assets/images/Pasted image 20230301092610.png",
+    "Q/Q.md",
+    "Q/A.md",
+    "JavaScript/事件.md",
+    "TypeScript/TypeScript.md",
+    "TypeScript/泛型.md",
+    "TypeScript/语法.md",
     "packages/pnpm.md",
+    "packages/package.json.md",
+    "Node/mjs.md",
+    "Git/命令.md",
+    "Git",
+    "权限/第三方登录.md",
+    "权限/第三方登录.md.bak",
+    "权限",
+    "HTML/JavaScript",
     "packages",
     "HTML/attrs/contenteditable.md",
     "HTML/attrs/transform.md",
     "HTML/css/属性选择器.md",
     "HTML/css/伪元素.md",
-    "assets/images/Pasted image 20230301092610.png",
     "assets/images/Pasted image 20230309152940.png",
     "Browser/web work 多线程.md",
     "Browser/Chrome.md",
@@ -219,29 +189,10 @@
     "Browser/Cookies.md",
     "docker/常用命令.md",
     "docker/Docker中使用安卓模拟器-TODO....md",
-    "未命名.md",
-    "JavaScript/appendChild.md",
-    "Node/mjs.md",
-    "TypeScript/声明文件.md",
-    "TypeScript/TypeScript.md",
-    "TypeScript/语法.md",
-    "TypeScript/泛型.md",
-    "TypeScript/内置类/Pick.md",
-    "TypeScript/内置类/Readonly.md",
-    "TypeScript/内置类/Omit.md",
-    "微信/链接分享.md",
-    "微信/微信开发.md",
-    "微信/公众号扫码自动登录网站.md",
-    "TypeScript/内置类/ReturnType.md",
-    "TypeScript/内置类/Required.md",
     "微信",
     "docker",
     "assets/images",
     "assets",
-    "TypeScript/内置类",
-    "Q",
-    "Node",
-    "JavaScript",
-    "HTML/attrs"
+    "TypeScript/内置类"
   ]
 }

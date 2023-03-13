@@ -8,3 +8,7 @@
 packages:
   - 'packages/*'
 ```
+## 递归执行
+```shell
+pnpm -r run sort
+```
