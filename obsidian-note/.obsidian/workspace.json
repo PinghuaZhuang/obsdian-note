@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "537e548919130bbf",
+        "id": "5a2e67a30f77e88d",
         "type": "tabs",
         "children": [
           {
-            "id": "4a150aef44ecd421",
+            "id": "4fb70f4140dbd690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JS 动画.md",
-                "mode": "preview",
+                "file": "JavaScript/事件.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JS 动画.md",
+                "file": "JavaScript/事件.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/JS 动画.md",
+                "file": "JavaScript/事件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/JS 动画.md"
+                "file": "JavaScript/事件.md"
               }
             }
           },
@@ -153,46 +153,46 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4a150aef44ecd421",
+  "active": "4fb70f4140dbd690",
   "lastOpenFiles": [
+    "JavaScript/宏任务与微任务.md",
+    "JavaScript/事件.md",
     "JavaScript/自定义事件.md",
+    "assets/images/Pasted image 20230320115402.png",
+    "JavaScript/动画.md",
+    "Browser/web work 多线程.md",
+    "未命名.md",
+    "JavaScript/Ant-design.md",
+    "微信/JSSDK.md",
+    "文档/mermaid.md",
+    "docker/💦 Docker中使用安卓模拟器-TODO....md",
+    "Node/mjs.md",
+    "HTML/attrs/transform.md",
+    "文档",
+    "HTML/css/属性选择器.md",
+    "HTML/css/伪元素.md",
     "JavaScript/appendChild.md",
-    "JavaScript/JS 动画.md",
+    "HTML/attrs/contenteditable.md",
+    "docker/常用命令.md",
+    "packages/包管理.md",
+    "packages/pnpm.md",
+    "packages/package.json.md",
     "微信/微信开发.md",
     "微信/链接分享.md",
     "微信/公众号扫码自动登录网站.md",
     "assets/images/Pasted image 20230301092610.png",
     "Q/Q.md",
     "Q/A.md",
-    "JavaScript/事件.md",
-    "TypeScript/TypeScript.md",
-    "TypeScript/泛型.md",
-    "TypeScript/语法.md",
-    "packages/pnpm.md",
-    "packages/package.json.md",
-    "Node/mjs.md",
-    "Git/命令.md",
     "Git",
-    "权限/第三方登录.md",
     "权限/第三方登录.md.bak",
     "权限",
     "HTML/JavaScript",
     "packages",
-    "HTML/attrs/contenteditable.md",
-    "HTML/attrs/transform.md",
-    "HTML/css/属性选择器.md",
-    "HTML/css/伪元素.md",
     "assets/images/Pasted image 20230309152940.png",
-    "Browser/web work 多线程.md",
-    "Browser/Chrome.md",
     "assets/未命名.canvas",
-    "Browser/Cookies.md",
-    "docker/常用命令.md",
-    "docker/Docker中使用安卓模拟器-TODO....md",
     "微信",
     "docker",
     "assets/images",
-    "assets",
-    "TypeScript/内置类"
+    "assets"
   ]
 }
