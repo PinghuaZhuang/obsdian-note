@@ -1,5 +1,7 @@
 [
   "obsidian-outliner",
   "obsidian-admonition",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "obsidian-kanban"
 ]

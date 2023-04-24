@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "33e3377006ccdfb1",
+        "id": "afa632855fe88fc6",
         "type": "tabs",
         "children": [
           {
-            "id": "ad796729b31b18ab",
+            "id": "c6749870c29eff1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/内置类/Pick.md",
+                "file": "文档/mermaid.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c9695f365e83509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/JSDoc.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab4995f407ed8ad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/TypeScript.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19059bddf251f686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "打包/Vite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#attrs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/内置类/Pick.md",
+                "file": "打包/Vite.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/内置类/Pick.md",
+                "file": "打包/Vite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,26 +162,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/内置类/Pick.md"
+                "file": "打包/Vite.md"
               }
             }
           },
           {
-            "id": "e585ec3fd10c51e2",
+            "id": "23484c585733f6f1",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -153,48 +192,49 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4103c678ce48350e",
+  "active": "19059bddf251f686",
   "lastOpenFiles": [
+    "TypeScript/TypeScript.md",
+    "打包/Vite.md",
+    "打包",
+    "JavaScript/事件.md",
+    "packages/package.json.md",
+    "JavaScript/框架.md",
+    "TypeScript/JSDoc.md",
+    "文档/mermaid.md",
+    "assets/images/Pasted image 20230322161147.png",
+    "assets/images/Pasted image 20230309152940.png",
+    "assets/images/event_01.png",
+    "Browser/Chrome.md",
+    "Browser/Cookies.md",
+    "Browser/web work 多线程.md",
+    "HTML/css/属性选择器.md",
+    "HTML/css/伪元素.md",
+    "HTML/css/CSS.md",
+    "HTML/css/mask.md",
+    "HTML/URL Scheme.md",
+    "未命名看板.md",
+    "123.md",
+    "JavaScript/模拟事件.md",
+    "JavaScript/自定义事件.md",
+    "TypeScript/内置类/Omit.md",
+    "JavaScript/appendChild.md",
+    "Node/mjs.md",
+    "assets/images/Pasted image 20230320115402.png",
+    "assets/images/Pasted image 20230301092610.png",
+    "Git/命令.md",
+    "TypeScript/内置类/Pick.md",
     "TypeScript/内置类/ReturnType.md",
     "TypeScript/内置类/Required.md",
-    "TypeScript/内置类.md",
-    "TypeScript/内置类/PromiseSettledResult.md",
-    "TypeScript/TypeScript.md",
-    "TypeScript/泛型.md",
-    "TypeScript/声明文件.md",
-    "TypeScript/语法.md",
-    "HTML/URL Scheme.md",
-    "文档/mermaid.md",
-    "HTML/css/mask.md",
-    "微信/公众号扫码自动登录网站.md",
-    "微信/微信开发.md",
-    "微信/链接分享.md",
-    "微信/JSSDK.md",
-    "Git/命令.md",
-    "HTML/css/CSS.md",
-    "HTML/css/伪元素.md",
-    "HTML/css/属性选择器.md",
-    "HTML/attrs/contenteditable.md",
-    "HTML/attrs/transform.md",
-    "权限/第三方登录.md",
-    "Browser/Cookies.md",
-    "Browser/Chrome.md",
-    "Browser/web work 多线程.md",
-    "assets/images/Pasted image 20230322161147.png",
-    "JavaScript/自定义事件.md",
     "JavaScript/UI框架",
-    "assets/images/Pasted image 20230320115402.png",
     "文档",
-    "assets/images/Pasted image 20230301092610.png",
     "Git",
     "权限/第三方登录.md.bak",
     "权限",
     "HTML/JavaScript",
     "packages",
-    "assets/images/Pasted image 20230309152940.png",
     "assets/未命名.canvas",
     "微信",
-    "docker",
-    "assets/images"
+    "docker"
   ]
 }
