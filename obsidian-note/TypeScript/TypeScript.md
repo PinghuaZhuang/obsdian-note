@@ -6,6 +6,9 @@
 + [[声明文件|声明文件 d.ts]]
 	+ [[声明文件#^c096b2|扩展已有模块]]
 + [[语法]]
+
+## [[JSDoc#代码提示配置]]
+
 ## 好用的第三库
 + [utility-types](https://github.com/piotrwitek/utility-types)
 + [ts-toolbelt](https://github.com/millsp/ts-toolbelt)
