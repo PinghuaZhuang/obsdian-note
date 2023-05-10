@@ -13,7 +13,7 @@ const modules = import.meta.glob('./dir/*.js', { import: 'setup', eager: true })
 
 ## 关于@vitejs/plugin-legacy 不支持库模式
 [issues1639](https://github.com/vitejs/vite/issues/1639)
-
+😂 还是没有达到预期的效果, 最终生成的代码中包含有 reqire('corejs....')
 原因: esbuild 不会转换为 es5，而且无法配置让 babel 可以处理 ts 甚至转换为 es5。
 解决办法: 通过 esbuild (vite) 在生成的代码上运行 babel。
 
