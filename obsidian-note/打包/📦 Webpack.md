@@ -6,3 +6,6 @@ contenthash 是只有当文件自己的内容发生改变时，其打包的 hash
 
 ## fullhash
 顾名思义，fullhash是全量的hash，是整个项目级别的。只要项目中有任何一个的文件内容发生变动，打包后所有文件的hash值都会发生改变。
+
+## 排查 Tree Shaking 失效原因
+https://juejin.cn/post/7216509759415271483
