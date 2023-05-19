@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "打包/terser.md",
-                "mode": "source",
+                "file": "Browser/Network/轮询.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "打包/terser.md",
+                "file": "Browser/Network/轮询.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "打包/terser.md",
+                "file": "Browser/Network/轮询.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "打包/terser.md"
+                "file": "Browser/Network/轮询.md"
               }
             }
           },
@@ -164,10 +164,29 @@
   },
   "active": "10317352cccdc26e",
   "lastOpenFiles": [
-    "打包/📦 Webpack.md",
-    "打包/terser.md",
-    "docker/常用命令.md",
+    "Deno/Deno Deloy.md",
+    "Browser/Network/轮询.md",
+    "Browser/Network",
+    "未命名.md",
+    "Deno",
+    "JavaScript/事件.md",
     "docker/💦 Docker中使用安卓模拟器-TODO....md",
+    "docker/常用命令.md",
+    "打包/terser.md",
+    "打包/📦 Webpack.md",
+    "Git/命令.md",
+    "Browser/修改历史记录.md",
+    "Browser/Chrome.md",
+    "Browser/Cookies.md",
+    "Browser/SharedWorker.md",
+    "Browser/WebWork 多线程.md",
+    "HTML/Events.md",
+    "HTML/Document.md",
+    "HTML/未命名",
+    "HTML/懒加载.md",
+    "assets/images/Pasted image 20230512134119.png",
+    "assets/images/Pasted image 20230512134104.png",
+    "打包/📦 Vite.md",
     "权限/第三方登录.md",
     "其他/名词.md",
     "HTML/attrs/contenteditable.md",
@@ -175,23 +194,9 @@
     "前端架构^B.md",
     "Q/Q.md",
     "其他",
-    "JavaScript/事件.md",
     "JavaScript/算法.md",
     "未命名.canvas",
     "Browser/ChromeExtension/Chrome 扩展开发.md",
-    "HTML/css/CSS.md",
-    "packages/包管理.md",
-    "packages/pnpm.md",
-    "JSDoc/代码提示配置.md",
-    "JavaScript/appendChild.md",
-    "JavaScript/自定义事件.md",
-    "JavaScript/动画.md",
-    "HTML/URL Scheme.md",
-    "JavaScript/模拟事件.md",
-    "HTML/css/mask.md",
-    "微信/微信开发.md",
-    "微信/JSSDK.md",
-    "HTML/css/属性选择器.md",
     "Browser/ChromeExtension",
     "JSDoc",
     "打包",
@@ -203,9 +208,6 @@
     "UI框架",
     "文档",
     "Git",
-    "权限/第三方登录.md.bak",
-    "权限",
-    "HTML/JavaScript",
     "assets/未命名.canvas"
   ]
 }

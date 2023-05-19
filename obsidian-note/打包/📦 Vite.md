@@ -2,7 +2,7 @@
 不支持 `contenthash`
 ```
 ## import.meta.glob
-异步懒加载
+异步[[懒加载]]
 ```js
 // tree-shaking
 const modules = import.meta.glob('./dir/*.js', { import: 'setup', eager: true })
