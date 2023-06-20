@@ -23,3 +23,12 @@ history.block((location, action) => {
 // 要停止blocking transitions，请调用block（）返回的函数。
 unblock();
 ```
+
+## “React”指 UMD 全局，但当前文件是模块。请考虑改为添加导入
+```json
+{
+	"compilerOptions": {
+		"moduleResolution": "node"
+	}
+}
+```

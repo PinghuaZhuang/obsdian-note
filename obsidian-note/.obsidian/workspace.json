@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8d11959c7310e3ce",
+        "id": "8d7176c7f58ef325",
         "type": "tabs",
         "children": [
           {
-            "id": "33e97dbee200bf72",
+            "id": "5a165444e92043f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Browser/WebRTC(Web Real-Time Communication).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e6ac0d2c9c51249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/css/属性选择器.md",
+                "file": "HTML/URL Scheme.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "react",
+                "query": "pnpm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/css/属性选择器.md",
+                "file": "HTML/URL Scheme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/css/属性选择器.md",
+                "file": "HTML/URL Scheme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/css/属性选择器.md"
+                "file": "HTML/URL Scheme.md"
               }
             }
           },
@@ -176,36 +163,37 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e6ac0d2c9c51249",
+  "active": "5a165444e92043f5",
   "lastOpenFiles": [
+    "HTML/Events.md",
+    "HTML/Document.md",
+    "HTML/attrs/transform.md",
+    "HTML/attrs/contenteditable.md",
+    "HTML/attrs/其他.md",
+    "前端框架/React.md",
+    "packages/pnpm.md",
+    "packages/包管理.md",
+    "项目工程/开发环境.md",
+    "项目工程/开发环境",
+    "项目工程/框架.md",
+    "项目工程/代码格式化.md",
+    "项目工程/打包/terser.md",
+    "项目工程/打包/📦 Webpack.md",
+    "项目工程/打包/📦 Vite.md",
+    "UI框架/Element.md",
+    "Browser/屏幕截图.md",
+    "Node/进程.md",
+    "HTML/css/属性选择器.md",
     "HTML/css/伪元素.md",
     "HTML/css/CSS.md",
-    "HTML/css/属性选择器.md",
     "Browser/WebWork 多线程.md",
     "Browser/Chrome.md",
     "Browser/Cookies.md",
     "Browser/修改历史记录.md",
-    "Browser/屏幕截图.md",
-    "项目工程/代码格式化.md",
     "权限/第三方登录.md",
-    "前端框架/React.md",
     "Browser/WebRTC(Web Real-Time Communication).md",
-    "未命名.md",
-    "HTML/attrs/transform.md",
-    "HTML/attrs/contenteditable.md",
-    "Browser/Network/轮询.md",
-    "Browser/ChromeExtension/Chrome 扩展开发.md",
-    "Browser/ChromeExtension/manifest.json.md",
-    "Deno/Deno Deloy.md",
-    "Q/Q.md",
-    "Q/A.md",
-    "docker/💦 Docker中使用安卓模拟器-TODO....md",
-    "docker/常用命令.md",
-    "docker/教程.md",
     "前端框架",
-    "打包/未命名.md",
     "项目工程",
-    "文档/未命名.md",
     "Browser/Network",
     "Deno",
     "HTML/未命名",
@@ -215,13 +203,12 @@
     "未命名.canvas",
     "Browser/ChromeExtension",
     "JSDoc",
-    "打包",
+    "项目工程/打包",
     "assets/images/Pasted image 20230322161147.png",
     "assets/images/Pasted image 20230309152940.png",
     "assets/images/event_01.png",
     "assets/images/Pasted image 20230320115402.png",
     "assets/images/Pasted image 20230301092610.png",
-    "UI框架",
     "assets/未命名.canvas"
   ]
 }
