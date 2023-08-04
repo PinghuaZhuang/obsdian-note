@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/URL Scheme.md",
-                "mode": "preview",
+                "file": "项目工程/打包/index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pnpm",
+                "query": "saas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/URL Scheme.md",
+                "file": "项目工程/打包/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/URL Scheme.md",
+                "file": "项目工程/打包/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/URL Scheme.md"
+                "file": "项目工程/打包/index.md"
               }
             }
           },
@@ -165,33 +165,35 @@
   },
   "active": "5a165444e92043f5",
   "lastOpenFiles": [
-    "HTML/Events.md",
-    "HTML/Document.md",
-    "HTML/attrs/transform.md",
-    "HTML/attrs/contenteditable.md",
-    "HTML/attrs/其他.md",
+    "项目工程/IDE/uni-app.md",
+    "项目工程/打包/index.md",
+    "JavaScript/事件.md",
+    "项目工程/IDE",
+    "bpmn/内置模块.md",
+    "bpmn/可以实现的功能.md",
+    "项目工程/框架.md",
+    "项目工程/开发环境.md",
     "前端框架/React.md",
     "packages/pnpm.md",
     "packages/包管理.md",
-    "项目工程/开发环境.md",
-    "项目工程/开发环境",
-    "项目工程/框架.md",
-    "项目工程/代码格式化.md",
-    "项目工程/打包/terser.md",
-    "项目工程/打包/📦 Webpack.md",
-    "项目工程/打包/📦 Vite.md",
-    "UI框架/Element.md",
-    "Browser/屏幕截图.md",
-    "Node/进程.md",
-    "HTML/css/属性选择器.md",
-    "HTML/css/伪元素.md",
+    "HTML/css/mask.md",
+    "bpmn/事件.md",
+    "bpmn/API.md",
+    "微信/微信开发.md",
+    "微信/企微H5跳转小程序.md",
+    "bpmn",
     "HTML/css/CSS.md",
-    "Browser/WebWork 多线程.md",
-    "Browser/Chrome.md",
-    "Browser/Cookies.md",
+    "HTML/css/伪元素.md",
+    "HTML/css/属性选择器.md",
+    "Browser/Network/轮询.md",
     "Browser/修改历史记录.md",
-    "权限/第三方登录.md",
+    "Browser/SharedWorker.md",
     "Browser/WebRTC(Web Real-Time Communication).md",
+    "Browser/WebWork 多线程.md",
+    "JavaScript/算法.md",
+    "JavaScript/自定义事件.md",
+    "JavaScript/模拟事件.md",
+    "项目工程/开发环境",
     "前端框架",
     "项目工程",
     "Browser/Network",
@@ -202,8 +204,6 @@
     "其他",
     "未命名.canvas",
     "Browser/ChromeExtension",
-    "JSDoc",
-    "项目工程/打包",
     "assets/images/Pasted image 20230322161147.png",
     "assets/images/Pasted image 20230309152940.png",
     "assets/images/event_01.png",

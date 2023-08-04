@@ -18,3 +18,16 @@ html[theme='dark-mode'] img{
 # popover
 chrome 114+ 支持原生的popover. 
 [参考文档](https://juejin.cn/post/7238233943610032188)
+
+# @supports
+检查元素是否支持摸个属性
+```css
+@supports (display: flex) { 
+	/* 如果支持 */ 
+	/* 在这里放置针对支持该属性的样式规则 */ 
+} 
+@supports not (display: flex) { 
+	/* 如果不支持 */ 
+	/* 在这里放置针对不支持该属性的备用样式规则 */ 
+}
+```
