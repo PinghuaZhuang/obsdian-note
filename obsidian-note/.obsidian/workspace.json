@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目工程/打包/index.md",
-                "mode": "source",
+                "file": "项目工程/打包/📦 Vite.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "saas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目工程/打包/index.md",
+                "file": "项目工程/打包/📦 Vite.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目工程/打包/index.md",
+                "file": "项目工程/打包/📦 Vite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目工程/打包/index.md"
+                "file": "项目工程/打包/📦 Vite.md"
               }
             }
           },
@@ -165,8 +165,18 @@
   },
   "active": "5a165444e92043f5",
   "lastOpenFiles": [
-    "项目工程/IDE/uni-app.md",
+    "项目工程/打包/📦 Webpack.md",
+    "TypeScript/内置类/Omit.md",
+    "项目工程/打包/📦 Vite.md",
+    "TypeScript/配置选项.md",
+    "packages/package.json.md",
+    "packages/包管理.md",
+    "TypeScript/声明文件.md",
+    "TypeScript/TypeScript.md",
+    "TypeScript/JSDoc.md",
+    "TypeScript/语法.md",
     "项目工程/打包/index.md",
+    "项目工程/IDE/uni-app.md",
     "JavaScript/事件.md",
     "项目工程/IDE",
     "bpmn/内置模块.md",
@@ -175,7 +185,6 @@
     "项目工程/开发环境.md",
     "前端框架/React.md",
     "packages/pnpm.md",
-    "packages/包管理.md",
     "HTML/css/mask.md",
     "bpmn/事件.md",
     "bpmn/API.md",
@@ -184,15 +193,6 @@
     "bpmn",
     "HTML/css/CSS.md",
     "HTML/css/伪元素.md",
-    "HTML/css/属性选择器.md",
-    "Browser/Network/轮询.md",
-    "Browser/修改历史记录.md",
-    "Browser/SharedWorker.md",
-    "Browser/WebRTC(Web Real-Time Communication).md",
-    "Browser/WebWork 多线程.md",
-    "JavaScript/算法.md",
-    "JavaScript/自定义事件.md",
-    "JavaScript/模拟事件.md",
     "项目工程/开发环境",
     "前端框架",
     "项目工程",

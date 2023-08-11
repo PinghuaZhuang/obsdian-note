@@ -27,3 +27,7 @@ npm i qs6@npm:query-string@6.x qs5@npm:query-string@5.x
 ```
 
 在 node_modules 目录中，可以看到有 `qs6` 和 `qs5` 两个目录，证明确实安装了两个版本的 query-string 库。
+
+# imports 和 exports
+[掘金](https://juejin.cn/post/7219478427299971130)
+https://github.com/jkrems/proposal-pkg-exports/
