@@ -3,5 +3,6 @@
   "livePreview": true,
   "showLineNumber": false,
   "promptDelete": false,
-  "attachmentFolderPath": "assets/images"
+  "attachmentFolderPath": "assets/images",
+  "alwaysUpdateLinks": true
 }
