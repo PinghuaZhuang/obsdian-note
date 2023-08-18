@@ -8,6 +8,10 @@
 `padding` `margin` 无效. 必须使用 `td` 设置边距才行. 
 ## disaplay
 只在 `table` 上生效(`block`, `inline-block`).
+##  无效的样式
++ `border-radius` 全都无效.
++ `p` 标签空行, 必须是行内式设置行高.
++ 部分情况下, 图片高度会被拉长, 需要外层 `table` 形成 `BFC`(设置 `overflow: hidden;`).
 ## 图片显示
 + 在客户端, windows自带的邮件上, 外部链接是支持的, 不过客户端是需要用户点击行为, 触发下载后, 才能看到图片. 
 + windows自带的邮件上显示不了 base64的图片. 
