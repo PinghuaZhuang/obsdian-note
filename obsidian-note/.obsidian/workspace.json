@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/邮件/关于 outlook 客户端邮件显示 html 样式问题.md",
-                "mode": "source",
+                "file": "docker/常用命令.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/邮件/关于 outlook 客户端邮件显示 html 样式问题.md"
+                "file": "docker/常用命令.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/邮件/关于 outlook 客户端邮件显示 html 样式问题.md",
+                "file": "docker/常用命令.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他/邮件/关于 outlook 客户端邮件显示 html 样式问题.md",
+                "file": "docker/常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +190,17 @@
   },
   "active": "ffe4e8ba5c6a187a",
   "lastOpenFiles": [
-    "HTML/css/Table.md",
+    "docker/💦 Docker中使用安卓模拟器-TODO....md",
     "其他/邮件/关于 outlook 客户端邮件显示 html 样式问题.md",
+    "项目工程/打包/📦 Vite.md",
+    "项目工程/打包/打包.md",
+    "项目工程/打包/webpack/📦 Webpack.md",
+    "项目工程/打包/webpack",
+    "项目工程/打包/webpack/📦 webpack 打包性能分析 TODO....md",
+    "权限/第三方登录.md",
+    "前端框架/React.md",
     "其他/名词.md",
+    "HTML/css/Table.md",
     "微信/企微.md",
     "assets/images/Pasted image 20230817143430.png",
     "HTML/css/CSS.md",
@@ -200,10 +208,6 @@
     "项目工程/监控/前端监控重点.md",
     "docker/教程.md",
     "项目工程/监控",
-    "项目工程/打包/📦 Vite.md",
-    "项目工程/打包/📦 webpack 打包性能分析.md",
-    "项目工程/打包/📦 Webpack.md",
-    "项目工程/打包/打包.md",
     "JavaScript/appendChild.md",
     "HTML/Document.md",
     "TypeScript/声明文件.md",
@@ -212,14 +216,10 @@
     "Browser/WebWork 多线程.md",
     "Browser/WebRTC(Web Real-Time Communication).md",
     "其他/邮件",
-    "前端框架/React.md",
     "docker/常用命令.md",
-    "docker/💦 Docker中使用安卓模拟器-TODO....md",
     "项目工程/打包/terser.md",
     "TypeScript/内置类/Exclude.md",
-    "packages/包管理.md",
     "未命名.canvas",
-    "2023-08-14.md",
     "项目工程/IDE",
     "bpmn",
     "项目工程/开发环境",
@@ -227,7 +227,6 @@
     "项目工程",
     "Browser/Network",
     "Deno",
-    "HTML/未命名",
     "assets/images/Pasted image 20230512134119.png",
     "assets/images/Pasted image 20230512134104.png",
     "assets/images/Pasted image 20230322161147.png",
