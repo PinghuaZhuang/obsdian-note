@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/常用命令.md",
+                "file": "HTML/css/CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42edbe91964ec74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/配置选项.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f62924b369403bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端框架/uni-app.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#内置类",
+                "query": "ps1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/常用命令.md"
+                "file": "前端框架/uni-app.md"
               }
             }
           },
@@ -139,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/常用命令.md",
+                "file": "前端框架/uni-app.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/常用命令.md",
+                "file": "前端框架/uni-app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,46 +203,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffe4e8ba5c6a187a",
+  "active": "f62924b369403bef",
   "lastOpenFiles": [
-    "docker/💦 Docker中使用安卓模拟器-TODO....md",
+    "HTML/css/利用 textarea 获取文本的换行数据.md",
+    "assets/images/Pasted image 20230908162649.png",
+    "assets/images/Pasted image 20230908162645.png",
+    "前端框架/uni-app.md",
+    "TypeScript/TypeScript.md",
+    "构思项目/easy moveable.md",
     "其他/邮件/关于 outlook 客户端邮件显示 html 样式问题.md",
+    "前端框架/React.md",
+    "微信/JSSDK.md",
+    "构思项目/json_schema.md",
+    "构思项目/Untitled.md",
+    "HTML/css/CSS.md",
+    "构思项目",
+    "docker/常用命令.md",
+    "其他/名词.md",
+    "docker/💦 Docker中使用安卓模拟器-TODO....md",
     "项目工程/打包/📦 Vite.md",
     "项目工程/打包/打包.md",
     "项目工程/打包/webpack/📦 Webpack.md",
     "项目工程/打包/webpack",
     "项目工程/打包/webpack/📦 webpack 打包性能分析 TODO....md",
     "权限/第三方登录.md",
-    "前端框架/React.md",
-    "其他/名词.md",
     "HTML/css/Table.md",
     "微信/企微.md",
     "assets/images/Pasted image 20230817143430.png",
-    "HTML/css/CSS.md",
     "项目工程/IDE/uni-app.md",
     "项目工程/监控/前端监控重点.md",
     "docker/教程.md",
     "项目工程/监控",
     "JavaScript/appendChild.md",
     "HTML/Document.md",
-    "TypeScript/声明文件.md",
-    "TypeScript/TypeScript.md",
-    "项目工程/框架.md",
-    "Browser/WebWork 多线程.md",
-    "Browser/WebRTC(Web Real-Time Communication).md",
     "其他/邮件",
-    "docker/常用命令.md",
-    "项目工程/打包/terser.md",
-    "TypeScript/内置类/Exclude.md",
     "未命名.canvas",
     "项目工程/IDE",
     "bpmn",
@@ -226,7 +253,6 @@
     "前端框架",
     "项目工程",
     "Browser/Network",
-    "Deno",
     "assets/images/Pasted image 20230512134119.png",
     "assets/images/Pasted image 20230512134104.png",
     "assets/images/Pasted image 20230322161147.png",

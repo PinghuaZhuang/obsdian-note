@@ -31,3 +31,6 @@ chrome 114+ 支持原生的popover.
 	/* 在这里放置针对不支持该属性的备用样式规则 */ 
 }
 ```
+
+## contenteditable
+可以通过监听 `input` 事件来进行双向绑定. 
