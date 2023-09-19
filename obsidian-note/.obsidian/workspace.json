@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/URL.md",
-                "mode": "source",
+                "file": "前端框架/Vue.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/URL.md"
+                "file": "前端框架/Vue.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/URL.md",
+                "file": "前端框架/Vue.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/URL.md",
+                "file": "前端框架/Vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,6 +236,7 @@
   },
   "active": "19bf6be32758877d",
   "lastOpenFiles": [
+    "构思项目/CommandStack.md",
     "前端框架/Vue.md",
     "JavaScript/URL.md",
     "HTML/css/利用 textarea 获取文本的换行数据.md",
@@ -267,7 +268,6 @@
     "项目工程/监控/前端监控重点.md",
     "docker/教程.md",
     "项目工程/监控",
-    "JavaScript/appendChild.md",
     "其他/邮件",
     "未命名.canvas",
     "项目工程/IDE",
