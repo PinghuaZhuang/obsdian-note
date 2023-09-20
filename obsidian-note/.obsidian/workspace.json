@@ -37,50 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/css/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42edbe91964ec74e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/配置选项.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f62924b369403bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "前端框架/uni-app.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "19bf6be32758877d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端框架/Vue.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端框架/Vue.md"
+                "file": "前端框架/uni-app.md"
               }
             }
           },
@@ -175,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端框架/Vue.md",
+                "file": "前端框架/uni-app.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端框架/Vue.md",
+                "file": "前端框架/uni-app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,15 +198,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19bf6be32758877d",
+  "active": "ffe4e8ba5c6a187a",
   "lastOpenFiles": [
-    "构思项目/CommandStack.md",
+    "HTML/css/CSS.md",
+    "TypeScript/配置选项.md",
+    "前端框架/uni-app.md",
     "前端框架/Vue.md",
+    "构思项目/CommandStack.md",
     "JavaScript/URL.md",
     "HTML/css/利用 textarea 获取文本的换行数据.md",
     "assets/images/Pasted image 20230908162649.png",
     "assets/images/Pasted image 20230908162645.png",
-    "前端框架/uni-app.md",
     "TypeScript/TypeScript.md",
     "构思项目/easy moveable.md",
     "其他/邮件/关于 outlook 客户端邮件显示 html 样式问题.md",
@@ -250,7 +216,6 @@
     "微信/JSSDK.md",
     "构思项目/json_schema.md",
     "构思项目/Untitled.md",
-    "HTML/css/CSS.md",
     "构思项目",
     "docker/常用命令.md",
     "其他/名词.md",
@@ -266,7 +231,6 @@
     "assets/images/Pasted image 20230817143430.png",
     "项目工程/IDE/uni-app.md",
     "项目工程/监控/前端监控重点.md",
-    "docker/教程.md",
     "项目工程/监控",
     "其他/邮件",
     "未命名.canvas",
