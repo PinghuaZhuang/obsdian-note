@@ -42,9 +42,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed7253a7bb055940",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
+            "id": "d291df8840df1f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Browser/预渲染/Speculation Rules API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcbf0746c6db1231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "移动端禁止用户拖动窗口.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -73,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ps1",
+                "query": "tag:#Media",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端框架/uni-app.md"
+                "file": "移动端禁止用户拖动窗口.md"
               }
             }
           },
@@ -139,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端框架/uni-app.md",
+                "file": "移动端禁止用户拖动窗口.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端框架/uni-app.md",
+                "file": "移动端禁止用户拖动窗口.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +232,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffe4e8ba5c6a187a",
+  "active": "fcbf0746c6db1231",
   "lastOpenFiles": [
+    "Browser/预渲染/Speculation Rules API.md",
+    "移动端禁止用户拖动窗口.md",
+    "项目工程/代码格式化.md",
+    "Browser/预渲染",
+    "项目工程/开发环境.md",
+    "Browser/Network/轮询.md",
+    "Browser/Screen_Capture_API/屏幕截图.md",
+    "Browser/修改历史记录.md",
+    "Browser/Screen_Capture_API",
+    "docker/常用命令.md",
+    "docker/教程.md",
+    "docker/💦 Docker中使用安卓模拟器-TODO....md",
+    "Deno/Deno Deloy.md",
+    "微信/公众号扫码自动登录网站.md",
+    "微信/企微/企微.md",
+    "微信/企微/企微开发遇到的问题.md",
+    "微信/JSSDK.md",
+    "微信/企微",
+    "assets/images/Pasted image 20230921151017.png",
+    "微信/链接分享.md",
+    "其他/数据传输加密.md",
     "HTML/css/CSS.md",
     "TypeScript/配置选项.md",
     "前端框架/uni-app.md",
@@ -211,42 +266,21 @@
     "assets/images/Pasted image 20230908162645.png",
     "TypeScript/TypeScript.md",
     "构思项目/easy moveable.md",
-    "其他/邮件/关于 outlook 客户端邮件显示 html 样式问题.md",
-    "前端框架/React.md",
-    "微信/JSSDK.md",
-    "构思项目/json_schema.md",
-    "构思项目/Untitled.md",
     "构思项目",
-    "docker/常用命令.md",
-    "其他/名词.md",
-    "docker/💦 Docker中使用安卓模拟器-TODO....md",
-    "项目工程/打包/📦 Vite.md",
-    "项目工程/打包/打包.md",
-    "项目工程/打包/webpack/📦 Webpack.md",
     "项目工程/打包/webpack",
-    "项目工程/打包/webpack/📦 webpack 打包性能分析 TODO....md",
-    "权限/第三方登录.md",
-    "HTML/css/Table.md",
-    "微信/企微.md",
     "assets/images/Pasted image 20230817143430.png",
-    "项目工程/IDE/uni-app.md",
-    "项目工程/监控/前端监控重点.md",
     "项目工程/监控",
     "其他/邮件",
     "未命名.canvas",
     "项目工程/IDE",
     "bpmn",
     "项目工程/开发环境",
-    "前端框架",
-    "项目工程",
-    "Browser/Network",
     "assets/images/Pasted image 20230512134119.png",
     "assets/images/Pasted image 20230512134104.png",
     "assets/images/Pasted image 20230322161147.png",
     "assets/images/Pasted image 20230309152940.png",
     "assets/images/event_01.png",
     "assets/images/Pasted image 20230320115402.png",
-    "assets/images/Pasted image 20230301092610.png",
     "assets/未命名.canvas"
   ]
 }
