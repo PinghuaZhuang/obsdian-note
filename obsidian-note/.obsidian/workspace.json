@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目工程/插件设计.md",
-                "mode": "source",
+                "file": "JavaScript/关闭页面前埋点.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目工程/插件设计.md"
+                "file": "JavaScript/关闭页面前埋点.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目工程/插件设计.md",
+                "file": "JavaScript/关闭页面前埋点.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目工程/插件设计.md",
+                "file": "JavaScript/关闭页面前埋点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,8 +222,9 @@
   },
   "active": "ffe4e8ba5c6a187a",
   "lastOpenFiles": [
-    "项目工程/多项目复用的解决方案(技术层面).md",
     "项目工程/插件设计.md",
+    "JavaScript/关闭页面前埋点.md",
+    "项目工程/多项目复用的解决方案(技术层面).md",
     "UI框架/Element.md",
     "前端框架/uni-app.md",
     "Browser/预渲染/Speculation Rules API.md",
@@ -250,7 +251,6 @@
     "Browser/Network/轮询.md",
     "Browser/Screen_Capture_API",
     "docker/常用命令.md",
-    "docker/教程.md",
     "微信/企微",
     "assets/images/Pasted image 20230921151017.png",
     "assets/images/Pasted image 20230908162649.png",
