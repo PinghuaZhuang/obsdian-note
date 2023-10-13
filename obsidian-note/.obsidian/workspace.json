@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "c096228259890f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/readme.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ed7253a7bb055940",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/关闭页面前埋点.md"
+                "file": "Git/readme.md"
               }
             }
           },
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/关闭页面前埋点.md",
+                "file": "Git/readme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/关闭页面前埋点.md",
+                "file": "Git/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,8 +232,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffe4e8ba5c6a187a",
+  "active": "c096228259890f08",
   "lastOpenFiles": [
+    "Git/readme.md",
     "项目工程/插件设计.md",
     "JavaScript/关闭页面前埋点.md",
     "项目工程/多项目复用的解决方案(技术层面).md",
@@ -250,7 +263,6 @@
     "项目工程/开发环境.md",
     "Browser/Network/轮询.md",
     "Browser/Screen_Capture_API",
-    "docker/常用命令.md",
     "微信/企微",
     "assets/images/Pasted image 20230921151017.png",
     "assets/images/Pasted image 20230908162649.png",
