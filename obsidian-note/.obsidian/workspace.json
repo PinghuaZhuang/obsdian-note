@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b7878087f04438a5",
+        "id": "da4888cf65f4de8c",
         "type": "tabs",
         "children": [
           {
-            "id": "f1e0fd93ecc34689",
+            "id": "4f4b44243db36fa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/名词.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a5ccf30d4912263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker/教程.md",
+                "file": "JavaScript/Observe.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ffe4e8ba5c6a187a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/关闭页面前埋点.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c096228259890f08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目工程/插件设计.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed7253a7bb055940",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "fcbf0746c6db1231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "其他/邮件/关于 outlook 客户端邮件显示 html 样式问题.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "插件",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目工程/插件设计.md"
+                "file": "JavaScript/Observe.md"
               }
             }
           },
@@ -174,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目工程/插件设计.md",
+                "file": "JavaScript/Observe.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目工程/插件设计.md",
+                "file": "JavaScript/Observe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,18 +173,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c096228259890f08",
+  "active": "4103c678ce48350e",
   "lastOpenFiles": [
-    "Git/readme.md",
-    "项目工程/插件设计.md",
+    "JavaScript/Observe",
+    "JavaScript/Observe.md",
+    "其他/名词.md",
+    "docker/教程.md",
     "JavaScript/关闭页面前埋点.md",
+    "HTML/css/transform.md",
+    "HTML/Document.md",
+    "HTML/Events.md",
+    "HTML/URL Scheme.md",
+    "Git/命令.md",
+    "文档/mermaid.md",
+    "项目工程/插件设计.md",
+    "Git/readme.md",
     "项目工程/多项目复用的解决方案(技术层面).md",
     "UI框架/Element.md",
     "前端框架/uni-app.md",
     "Browser/预渲染/Speculation Rules API.md",
     "其他/邮件/关于 outlook 客户端邮件显示 html 样式问题.md",
-    "其他/名词.md",
-    "文档/mermaid.md",
     "微信/JSSDK.md",
     "微信/微信开发.md",
     "微信/链接分享.md",
@@ -253,16 +201,8 @@
     "微信/企微/企微开发遇到的问题.md",
     "bpmn/API.md",
     "bpmn/可以实现的功能.md",
-    "bpmn/事件.md",
-    "bpmn/内置模块.md",
-    "Browser/Screen_Capture_API/屏幕截图.md",
-    "Browser/修改历史记录.md",
-    "Browser/移动端适配/移动端禁止用户拖动窗口.md",
     "Browser/移动端适配",
-    "项目工程/代码格式化.md",
     "Browser/预渲染",
-    "项目工程/开发环境.md",
-    "Browser/Network/轮询.md",
     "Browser/Screen_Capture_API",
     "微信/企微",
     "assets/images/Pasted image 20230921151017.png",
