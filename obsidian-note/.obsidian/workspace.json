@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Observe.md",
-                "mode": "source",
+                "file": "Browser/Network/轮询.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Observe.md"
+                "file": "Browser/Network/轮询.md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Observe.md",
+                "file": "Browser/Network/轮询.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Observe.md",
+                "file": "Browser/Network/轮询.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,34 +174,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4103c678ce48350e",
+  "active": "188bd39f65774319",
   "lastOpenFiles": [
-    "JavaScript/Observe",
-    "JavaScript/Observe.md",
-    "其他/名词.md",
+    "Browser/Chrome.md",
+    "Browser/SharedWorker.md",
+    "Browser/WebWork 多线程.md",
+    "Deno/Deno Deloy.md",
+    "docker/💦 Docker中使用安卓模拟器-TODO....md",
+    "docker/常用命令.md",
     "docker/教程.md",
-    "JavaScript/关闭页面前埋点.md",
-    "HTML/css/transform.md",
+    "HTML/懒加载.md",
     "HTML/Document.md",
     "HTML/Events.md",
-    "HTML/URL Scheme.md",
-    "Git/命令.md",
-    "文档/mermaid.md",
+    "HTML/css/字体.md",
+    "HTML/css/利用 textarea 获取文本的换行数据.md",
+    "项目工程/打包/打包.md",
+    "前端框架/Vue.md",
     "项目工程/插件设计.md",
-    "Git/readme.md",
-    "项目工程/多项目复用的解决方案(技术层面).md",
-    "UI框架/Element.md",
-    "前端框架/uni-app.md",
-    "Browser/预渲染/Speculation Rules API.md",
-    "其他/邮件/关于 outlook 客户端邮件显示 html 样式问题.md",
-    "微信/JSSDK.md",
-    "微信/微信开发.md",
-    "微信/链接分享.md",
-    "微信/公众号扫码自动登录网站.md",
-    "微信/企微/企微跳转.md",
-    "微信/企微/企微开发遇到的问题.md",
-    "bpmn/API.md",
-    "bpmn/可以实现的功能.md",
+    "TypeScript/配置选项.md",
+    "JavaScript/Observe.md",
+    "JavaScript/模拟事件.md",
+    "JavaScript/动画.md",
+    "Browser/WebRTC(Web Real-Time Communication).md",
+    "Browser/Screen_Capture_API/屏幕截图.md",
+    "JavaScript/事件.md",
+    "JavaScript/算法.md",
+    "JavaScript/URL.md",
+    "JavaScript/Observe",
+    "其他/名词.md",
+    "JavaScript/关闭页面前埋点.md",
     "Browser/移动端适配",
     "Browser/预渲染",
     "Browser/Screen_Capture_API",
@@ -215,7 +217,6 @@
     "其他/邮件",
     "未命名.canvas",
     "项目工程/IDE",
-    "bpmn",
     "assets/images/Pasted image 20230512134119.png",
     "assets/images/Pasted image 20230512134104.png",
     "assets/images/Pasted image 20230322161147.png",
